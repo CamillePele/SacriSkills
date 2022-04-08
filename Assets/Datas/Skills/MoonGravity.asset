@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90de993e7f8e53d49bb68ed839c7809b, type: 3}
+  m_Name: MoonGravity
+  m_EditorClassIdentifier: 
+  titre: "Gravit\xE9 Lunaire"
+  methodInput: 
+  description: "Vous \xEAtes plus l\xE9g\xE9 que d'habitude ... un r\xE9gime peut-\xEAtre
+    ?"
+  icon: {fileID: 21300000, guid: 91a38442bf8b0f24fbd127c8b5dcd00a, type: 3}
